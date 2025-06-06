@@ -24,11 +24,6 @@ React Spinners
 ESLint
 
 
-bash
-Copy code
-git clone https://github.com/your-username/job-web.git
-cd job-web
-
 Install dependencies:
 npm install
 
