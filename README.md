@@ -49,10 +49,18 @@ Open http://localhost:5173 to view the app.
 ![localhost_3000_jobs](https://github.com/user-attachments/assets/3b9264ba-0abf-448d-843f-ab615eae3de6)
 
 
-### Read More "/jobs/3"
+
+
+### Read more about job  "/jobs/3"
+![localhost_3000_jobs_3](https://github.com/user-attachments/assets/3da438b1-b693-4bec-8b99-be0df0ec80a7)
+
+
+
+### Add Job "/jobs/3"
 ![localhost_3000_jobs_3 (1)](https://github.com/user-attachments/assets/f34344d9-3760-46e0-a2e4-71a215e9a9c8)
 
 
 
-### Edit Jobs "/jobs/3"
-![localhost_3000_jobs_3](https://github.com/user-attachments/assets/3da438b1-b693-4bec-8b99-be0df0ec80a7)
+### Edit Job "/jobs/3"
+![localhost_3000_edit-job_1](https://github.com/user-attachments/assets/20cdd319-ad6d-4c40-9e89-90990716b3e8)
+
