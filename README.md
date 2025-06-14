@@ -34,3 +34,25 @@ This serves src/jobs.json on http://localhost:8000.
 Start the development server:
 npm run dev
 Open http://localhost:5173 to view the app.
+
+
+
+## screenshots
+
+### Home page "/"
+
+![localhost_3000_](https://github.com/user-attachments/assets/f0dc0f51-5949-4309-91b5-9381b0d97b13)
+
+
+
+### browse jobs "/jobs"
+![localhost_3000_jobs](https://github.com/user-attachments/assets/3b9264ba-0abf-448d-843f-ab615eae3de6)
+
+
+### Read More "/jobs/3"
+![localhost_3000_jobs_3 (1)](https://github.com/user-attachments/assets/f34344d9-3760-46e0-a2e4-71a215e9a9c8)
+
+
+
+### Edit Jobs "/jobs/3"
+![localhost_3000_jobs_3](https://github.com/user-attachments/assets/3da438b1-b693-4bec-8b99-be0df0ec80a7)
